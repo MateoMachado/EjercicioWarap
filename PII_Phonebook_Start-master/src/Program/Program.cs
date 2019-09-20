@@ -13,10 +13,11 @@ namespace Program
             Phonebook owner = new Phonebook(owners);
             
             // Crear la lista de contactos
+
             List<Contact> contactList = new List<Contact>();
-            Contact contact1 = new Contact("Matia");
-            Contact contact2 = new Contact("Mati");
-            Contact contact3 = new Contact("Mat");
+            Contact contact1 = new Contact("Mateo");
+            Contact contact2 = new Contact("Francisco");
+            Contact contact3 = new Contact("Matias");
 
             // Agregar contactos a la lista
             contactList.Add(contact1);
@@ -27,6 +28,7 @@ namespace Program
             //Creo el mensaje
             Message m  = new Message(owners,contact1);
             m.Text = "Hola";
+
 
             // Enviar un WhatsApp a algunos contactos
             IMessageChannel message;
