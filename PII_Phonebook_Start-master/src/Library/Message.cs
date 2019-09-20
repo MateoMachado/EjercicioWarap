@@ -2,7 +2,7 @@ namespace Library
 {
     public class Message
     {
-        protected Message(string from, string to)
+        public Message(Contact from, Contact to)
         {
             this.From = from;
             this.To = to;
@@ -10,8 +10,8 @@ namespace Library
 
         public string Text { get; set; }
 
-        public string From { get; }
+        public Contact From { get; }
 
-        public string To { get; }
+        public Contact To { get; }
     }
 }
