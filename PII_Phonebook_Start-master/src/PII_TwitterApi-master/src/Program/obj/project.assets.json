@@ -217,17 +217,17 @@
           "lib/netstandard2.0/Newtonsoft.Json.dll": {}
         }
       },
-      "Library/1.0.0": {
+      "TwitterApi/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v2.2",
         "dependencies": {
           "Newtonsoft.Json": "11.0.2"
         },
         "compile": {
-          "bin/placeholder/Library.dll": {}
+          "bin/placeholder/TwitterApi.dll": {}
         },
         "runtime": {
-          "bin/placeholder/Library.dll": {}
+          "bin/placeholder/TwitterApi.dll": {}
         }
       }
     }
@@ -731,7 +731,7 @@
         "newtonsoft.json.nuspec"
       ]
     },
-    "Library/1.0.0": {
+    "TwitterApi/1.0.0": {
       "type": "project",
       "path": "../Library/Library.csproj",
       "msbuildProject": "../Library/Library.csproj"
@@ -739,8 +739,8 @@
   },
   "projectFileDependencyGroups": {
     ".NETCoreApp,Version=v2.2": [
-      "Library >= 1.0.0",
-      "Microsoft.NETCore.App >= 2.2.0"
+      "Microsoft.NETCore.App >= 2.2.0",
+      "TwitterApi >= 1.0.0"
     ]
   },
   "packageFolders": {

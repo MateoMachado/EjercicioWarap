@@ -1,0 +1,9 @@
+C:\Users\FIT\Documents\GitHub\EjercicioWarap\PII_Phonebook_Start-master\src\PII_WhatsAppApiUCU-master\obj\Debug\netcoreapp2.2\WhatsAppApiUCU.csprojAssemblyReference.cache
+C:\Users\FIT\Documents\GitHub\EjercicioWarap\PII_Phonebook_Start-master\src\PII_WhatsAppApiUCU-master\obj\Debug\netcoreapp2.2\WhatsAppApiUCU.csproj.CoreCompileInputs.cache
+C:\Users\FIT\Documents\GitHub\EjercicioWarap\PII_Phonebook_Start-master\src\PII_WhatsAppApiUCU-master\obj\Debug\netcoreapp2.2\WhatsAppApiUCU.AssemblyInfoInputs.cache
+C:\Users\FIT\Documents\GitHub\EjercicioWarap\PII_Phonebook_Start-master\src\PII_WhatsAppApiUCU-master\obj\Debug\netcoreapp2.2\WhatsAppApiUCU.AssemblyInfo.cs
+C:\Users\FIT\Documents\GitHub\EjercicioWarap\PII_Phonebook_Start-master\src\PII_WhatsAppApiUCU-master\bin\Debug\netcoreapp2.2\WhatsAppApiUCU.deps.json
+C:\Users\FIT\Documents\GitHub\EjercicioWarap\PII_Phonebook_Start-master\src\PII_WhatsAppApiUCU-master\bin\Debug\netcoreapp2.2\WhatsAppApiUCU.dll
+C:\Users\FIT\Documents\GitHub\EjercicioWarap\PII_Phonebook_Start-master\src\PII_WhatsAppApiUCU-master\bin\Debug\netcoreapp2.2\WhatsAppApiUCU.pdb
+C:\Users\FIT\Documents\GitHub\EjercicioWarap\PII_Phonebook_Start-master\src\PII_WhatsAppApiUCU-master\obj\Debug\netcoreapp2.2\WhatsAppApiUCU.dll
+C:\Users\FIT\Documents\GitHub\EjercicioWarap\PII_Phonebook_Start-master\src\PII_WhatsAppApiUCU-master\obj\Debug\netcoreapp2.2\WhatsAppApiUCU.pdb
