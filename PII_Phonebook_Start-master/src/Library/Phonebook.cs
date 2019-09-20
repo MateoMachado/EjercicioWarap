@@ -31,5 +31,13 @@ namespace Library
 
             return result;
         }
+
+        public void Add(Contact contact){
+            persons.Add(contact);
+        }
+
+        public void Remove(Contact contact){
+            persons.Remove(contact);
+        }
     }
 }
