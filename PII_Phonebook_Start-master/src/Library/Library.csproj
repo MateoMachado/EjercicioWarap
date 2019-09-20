@@ -3,8 +3,8 @@
     <TargetFramework>netcoreapp2.2</TargetFramework>
   </PropertyGroup>
   <ItemGroup>
-    <ProjectReference Include="..\..\..\PII_WhatsAppApiUCU-master\WhatsAppApiUCU.csproj" />
-    <ProjectReference Include="..\..\..\PII_TwitterApi-master\src\Library\Library.csproj" />
+    <ProjectReference Include="..\PII_TwitterApi-master\src\Library\Library.csproj" />
+    <ProjectReference Include="..\PII_WhatsAppApiUCU-master\WhatsAppApiUCU.csproj" />
   </ItemGroup>
   <ItemGroup>
     <PackageReference Include="Twilio" Version="5.17.0" />

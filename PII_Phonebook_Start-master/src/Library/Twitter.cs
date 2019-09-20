@@ -1,5 +1,5 @@
 using System;
-using TwitterApi;
+using TwitterUCU;
 namespace Library
 {
     public class Twitter : IMessageChannel
@@ -12,7 +12,7 @@ namespace Library
         public void Send(Message message)
                 {
                     var twitterDirectMessage = new TwitterMessage(consumerKey, consumerKeySecret, accessToken, accessTokenSecret);
-                    Console.WriteLine(twitterDirectMessage.SendMessage(message.Text, "380889967"));
+                    Console.WriteLine(twitterDirectMessage.SendMessage(message.Text, "746829898858307584"));
                 }
     }
 }

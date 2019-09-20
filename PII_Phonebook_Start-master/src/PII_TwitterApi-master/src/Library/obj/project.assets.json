@@ -733,7 +733,7 @@
     "version": "1.0.0",
     "restore": {
       "projectUniqueName": "c:\\Users\\FIT\\Documents\\GitHub\\EjercicioWarap\\PII_Phonebook_Start-master\\src\\PII_TwitterApi-master\\src\\Library\\Library.csproj",
-      "projectName": "Library",
+      "projectName": "TwitterApi",
       "projectPath": "c:\\Users\\FIT\\Documents\\GitHub\\EjercicioWarap\\PII_Phonebook_Start-master\\src\\PII_TwitterApi-master\\src\\Library\\Library.csproj",
       "packagesPath": "C:\\Users\\FIT\\.nuget\\packages\\",
       "outputPath": "c:\\Users\\FIT\\Documents\\GitHub\\EjercicioWarap\\PII_Phonebook_Start-master\\src\\PII_TwitterApi-master\\src\\Library\\obj\\",

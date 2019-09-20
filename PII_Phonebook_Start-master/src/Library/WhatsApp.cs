@@ -1,5 +1,5 @@
 using System;
-using WhatsAppApi;
+using WhatsAppApiUCU;
 namespace Library
 {
     public class WhatsApp : IMessageChannel
@@ -10,7 +10,7 @@ namespace Library
         public void Send(Message message)
                 {
                     var whatsApp = new WhatsAppApi(accountSid, authToken);
-                    whatsApp.Send("+598<Poné tu teléfono acá>", message.Text);
+                    whatsApp.Send("+59899256116", message.Text);
                 }
     }
 }
