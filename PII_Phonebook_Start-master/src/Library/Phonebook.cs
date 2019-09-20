@@ -4,7 +4,7 @@ namespace Library
 {
     public class Phonebook
     {
-        private List<Contact> persons;
+        public List<Contact> persons;
 
         public Phonebook(Contact owner)
         {
@@ -12,15 +12,6 @@ namespace Library
             this.persons = new List<Contact>();
         }
 
-        public void Agregar(Contact Contacto)
-        {
-            persons.Add(Contacto);
-        }
-        public void Quitar(Contact Contacto)
-        {
-            persons.Remove(Contacto);
-        }
-        
         public Contact Owner { get; }
 
         public List<Contact> Search(string[] names)
